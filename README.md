@@ -15,10 +15,16 @@
 
 🔨
 | Nome | Linguaggio | Versione |
-|------|------------|----------|      
+|------|------------|----------|
 | Html | Markup     | 5        |
-| Css  | Style      | 4        | 
+| CSS  | Style      | 4        |
+| JS   | Logic      | es7      |
+| Node | Backend    | 22.20    |
 
-👨‍💻
+
+🖥️
 ```bash
-Avviare Golive da VS-Code
+cd ./FILMS
+npm install
+npm run start
+Avviare Golive da VS-Code per parte FrontEnd
