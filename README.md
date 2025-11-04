@@ -1,7 +1,6 @@
-# Layout sito web
-## Sito sviluppato con la classe Fullstack Dev
-*Novembre 2025*
-🧑‍💻
+# Applicazione Crud API di Film
+## Applicazione sviluppata durante il corso FullStack Developers
+*Novembre 2025*  👨🏻‍💻
 
 ---
 
